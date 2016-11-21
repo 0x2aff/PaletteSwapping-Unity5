@@ -3,17 +3,17 @@ PaletteSwapping
 
 1.	Import your sprite with following settings:
 
-•	Texture Type: Advanced
+   •	Texture Type: Advanced
 
-•	Read/Write Enabled: Yes
+   •	Read/Write Enabled: Yes
 
-•	Wrap Mode: Clamp
+   •	Wrap Mode: Clamp
 
-•	Filter Mode: Point
+   •	Filter Mode: Point
 
-•	Override for PC, Mac / Linux Standalone: Yes
+   •	Override for PC, Mac / Linux Standalone: Yes
 
-•	Format: ARGB 32bit (To enforce truetype)
+   •	Format: ARGB 32bit (To enforce truetype)
 
  ![](http://i.imgur.com/Mzq6IwM.jpg)
 
